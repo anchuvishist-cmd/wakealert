@@ -57,7 +57,7 @@ Wakealert/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/BlueeWhale/WakeX-AI.git
+git clone https://github.com/anchuvishist-cmd/wakealert.git
 ```
 
 ### 2. Open the Project Folder
